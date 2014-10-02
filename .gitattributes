@@ -1,0 +1,8 @@
+*.sh text eol=lf
+*.pl text eol=lf
+*.pm text eol=lf
+*.sql text eol=lf
+Rexfile text eol=lf
+cpanfile text eol=lf
+Makefile text eol=lf
+Makefile.PL text eol=lf
